@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/leo-react-porfolio-ucf/static/css/main.937ef786.chunk.css",
+    "main.js": "/leo-react-porfolio-ucf/static/js/main.b8280fec.chunk.js",
+    "main.js.map": "/leo-react-porfolio-ucf/static/js/main.b8280fec.chunk.js.map",
+    "runtime-main.js": "/leo-react-porfolio-ucf/static/js/runtime-main.24a00521.js",
+    "runtime-main.js.map": "/leo-react-porfolio-ucf/static/js/runtime-main.24a00521.js.map",
+    "static/css/2.658248ec.chunk.css": "/leo-react-porfolio-ucf/static/css/2.658248ec.chunk.css",
+    "static/js/2.b0eebdcd.chunk.js": "/leo-react-porfolio-ucf/static/js/2.b0eebdcd.chunk.js",
+    "static/js/2.b0eebdcd.chunk.js.map": "/leo-react-porfolio-ucf/static/js/2.b0eebdcd.chunk.js.map",
+    "static/js/3.a949a30d.chunk.js": "/leo-react-porfolio-ucf/static/js/3.a949a30d.chunk.js",
+    "static/js/3.a949a30d.chunk.js.map": "/leo-react-porfolio-ucf/static/js/3.a949a30d.chunk.js.map",
+    "index.html": "/leo-react-porfolio-ucf/index.html",
+    "static/css/2.658248ec.chunk.css.map": "/leo-react-porfolio-ucf/static/css/2.658248ec.chunk.css.map",
+    "static/css/main.937ef786.chunk.css.map": "/leo-react-porfolio-ucf/static/css/main.937ef786.chunk.css.map",
+    "static/js/2.b0eebdcd.chunk.js.LICENSE.txt": "/leo-react-porfolio-ucf/static/js/2.b0eebdcd.chunk.js.LICENSE.txt",
+    "static/media/burgerhw.10be6a0f.png": "/leo-react-porfolio-ucf/static/media/burgerhw.10be6a0f.png",
+    "static/media/profile.da64c629.png": "/leo-react-porfolio-ucf/static/media/profile.da64c629.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.24a00521.js",
+    "static/css/2.658248ec.chunk.css",
+    "static/js/2.b0eebdcd.chunk.js",
+    "static/css/main.937ef786.chunk.css",
+    "static/js/main.b8280fec.chunk.js"
+  ]
+}
