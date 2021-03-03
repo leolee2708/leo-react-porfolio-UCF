@@ -37,7 +37,7 @@ class Carousel extends React.Component {
                     title: 'my profile',
                     subTitle: 'Click the link below for my resume',
                     imgSrc: profile,
-                    link: "../assets/images/QuanLeGIT-A-CV.pdf",
+                    link: "https://agile-thicket-55643.herokuapp.com/?id=602c71646c3d1e00151ccc45",
                     selected: false
                 },
                 {
