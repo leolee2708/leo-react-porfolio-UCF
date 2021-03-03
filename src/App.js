@@ -56,9 +56,10 @@ class App extends React.Component {
               </Nav>
             </Navbar.Collapse>
           </Navbar>
-          <Route path="/" exact render={() => <HomePage title={this.state.home.title} subTitle={this.state.home.subTitle} text={this.state.home.text} />} />
+          <Route   path="/leo-react-porfolio-ucf" exact render={() => <HomePage title={this.state.home.title} subTitle={this.state.home.subTitle} text={this.state.home.text} />} />
           <Route path="/aboutme" exact render={() => <AboutMe title={this.state.about.title} />} />
           <Route path="/contact" exact render={() => <Contact title={this.state.contact.title} />} />
+          <Route   path="/" exact render={() => <HomePage title={this.state.home.title} subTitle={this.state.home.subTitle} text={this.state.home.text} />} />
           <Footer />
 
 
