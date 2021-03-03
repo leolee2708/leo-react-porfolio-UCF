@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/leo-react-porfolio-ucf/static/css/main.937ef786.chunk.css",
-    "main.js": "/leo-react-porfolio-ucf/static/js/main.b8280fec.chunk.js",
-    "main.js.map": "/leo-react-porfolio-ucf/static/js/main.b8280fec.chunk.js.map",
+    "main.js": "/leo-react-porfolio-ucf/static/js/main.b4cfdd42.chunk.js",
+    "main.js.map": "/leo-react-porfolio-ucf/static/js/main.b4cfdd42.chunk.js.map",
     "runtime-main.js": "/leo-react-porfolio-ucf/static/js/runtime-main.24a00521.js",
     "runtime-main.js.map": "/leo-react-porfolio-ucf/static/js/runtime-main.24a00521.js.map",
     "static/css/2.658248ec.chunk.css": "/leo-react-porfolio-ucf/static/css/2.658248ec.chunk.css",
@@ -22,6 +22,6 @@
     "static/css/2.658248ec.chunk.css",
     "static/js/2.b0eebdcd.chunk.js",
     "static/css/main.937ef786.chunk.css",
-    "static/js/main.b8280fec.chunk.js"
+    "static/js/main.b4cfdd42.chunk.js"
   ]
 }
