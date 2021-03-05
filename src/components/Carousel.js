@@ -9,6 +9,7 @@ import profile from "../assets/images/profile.png";
 import github from '../assets/images/github.png';
 import linkedin from '../assets/images/linkedin.png';
 import burgerhw from '../assets/images/burgerhw.png';
+import resume from '../assets/images/QuanLeGIT-A-CV.pdf'
 // import Col from 'react-bootstrap/Col';
 class Carousel extends React.Component {
 
@@ -37,7 +38,7 @@ class Carousel extends React.Component {
                     title: 'my profile',
                     subTitle: 'Click the link below for my resume',
                     imgSrc: profile,
-                    link: "https://agile-thicket-55643.herokuapp.com/?id=602c71646c3d1e00151ccc45",
+                    link: resume,
                     selected: false
                 },
                 {
